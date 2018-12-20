@@ -14,4 +14,5 @@ def main():
     getback = sub(total,paid)
     print(getback)
 
-main()
+if __name__=="__main__":
+    main()
